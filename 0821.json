@@ -20,7 +20,6 @@
 ],
 "wallpaper":"https://wallpaper-1tg.pages.dev/",
 "sites":[
-    {"key":"苹果","name":"阿凯┃很帅","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
     {"key":"豆","name":"【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
     {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
     {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
@@ -65,12 +64,6 @@
     {"key":"Aliso","name":"🙀盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
     {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-    {"key":"可可","name":"可可┃多线","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-    {"key":"4k_xiaohezi","name":"小盒子4K","type":3,"api":"http://xhztv.top/4k.json","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"4k_member","name":"会员自动4K","type":3,"api":"http://tvvip.kevip.icu/wwwbaiducom/s/wwwbaiducom.json","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"4k_beiyong2","name":"4K备用2","type":3,"api":"https://gitee.com/majiayun111/qyysyi/raw/master/qyys4K.json","searchable":1,"quickSearch":1,"filterable":1},
-    {"key":"4k_zhike","name":"zhike4K","type":3,"api":"https://gitee.com/zhikews/zhikews/raw/master/zhike.json","searchable":1,"quickSearch":1,"filterable":1}
-    
     
 {"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"./json/alist.json"},
 {"key":"新6V","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","timeout":60},
